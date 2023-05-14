@@ -1,0 +1,8 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+src/oldversions/extension old.ts
+src/oldversions/extension.ts
+src/util/workspace.ts
